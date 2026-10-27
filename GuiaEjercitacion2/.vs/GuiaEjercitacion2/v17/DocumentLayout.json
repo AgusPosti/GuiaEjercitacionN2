@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agus_\\source\\repos\\GuiaEjercitacion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE57CF31-516B-450A-A539-28D7D2D14F1A}|GuiaEjercitacion2\\GuiaEjercitacion2.csproj|c:\\users\\agus_\\source\\repos\\guiaejercitacion2\\guiaejercitacion2\\ejerciciob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE57CF31-516B-450A-A539-28D7D2D14F1A}|GuiaEjercitacion2\\GuiaEjercitacion2.csproj|solutionrelative:guiaejercitacion2\\ejerciciob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE57CF31-516B-450A-A539-28D7D2D14F1A}|GuiaEjercitacion2\\GuiaEjercitacion2.csproj|c:\\users\\agus_\\source\\repos\\guiaejercitacion2\\guiaejercitacion2\\ejercicioa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE57CF31-516B-450A-A539-28D7D2D14F1A}|GuiaEjercitacion2\\GuiaEjercitacion2.csproj|solutionrelative:guiaejercitacion2\\ejercicioa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE57CF31-516B-450A-A539-28D7D2D14F1A}|GuiaEjercitacion2\\GuiaEjercitacion2.csproj|c:\\users\\agus_\\source\\repos\\guiaejercitacion2\\guiaejercitacion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE57CF31-516B-450A-A539-28D7D2D14F1A}|GuiaEjercitacion2\\GuiaEjercitacion2.csproj|solutionrelative:guiaejercitacion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE57CF31-516B-450A-A539-28D7D2D14F1A}|GuiaEjercitacion2\\GuiaEjercitacion2.csproj|c:\\users\\agus_\\source\\repos\\guiaejercitacion2\\guiaejercitacion2\\ejerciciof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE57CF31-516B-450A-A539-28D7D2D14F1A}|GuiaEjercitacion2\\GuiaEjercitacion2.csproj|solutionrelative:guiaejercitacion2\\ejerciciof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE57CF31-516B-450A-A539-28D7D2D14F1A}|GuiaEjercitacion2\\GuiaEjercitacion2.csproj|c:\\users\\agus_\\source\\repos\\guiaejercitacion2\\guiaejercitacion2\\ejerciciod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE57CF31-516B-450A-A539-28D7D2D14F1A}|GuiaEjercitacion2\\GuiaEjercitacion2.csproj|solutionrelative:guiaejercitacion2\\ejerciciod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE57CF31-516B-450A-A539-28D7D2D14F1A}|GuiaEjercitacion2\\GuiaEjercitacion2.csproj|c:\\users\\agus_\\source\\repos\\guiaejercitacion2\\guiaejercitacion2\\ejercicioe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE57CF31-516B-450A-A539-28D7D2D14F1A}|GuiaEjercitacion2\\GuiaEjercitacion2.csproj|solutionrelative:guiaejercitacion2\\ejercicioe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE57CF31-516B-450A-A539-28D7D2D14F1A}|GuiaEjercitacion2\\GuiaEjercitacion2.csproj|c:\\users\\agus_\\source\\repos\\guiaejercitacion2\\guiaejercitacion2\\ejercicioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE57CF31-516B-450A-A539-28D7D2D14F1A}|GuiaEjercitacion2\\GuiaEjercitacion2.csproj|solutionrelative:guiaejercitacion2\\ejercicioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EjercicioF.cs",
+              "DocumentMoniker": "C:\\Users\\agus_\\source\\repos\\GuiaEjercitacion2\\GuiaEjercitacion2\\EjercicioF.cs",
+              "RelativeDocumentMoniker": "GuiaEjercitacion2\\EjercicioF.cs",
+              "ToolTip": "C:\\Users\\agus_\\source\\repos\\GuiaEjercitacion2\\GuiaEjercitacion2\\EjercicioF.cs",
+              "RelativeToolTip": "GuiaEjercitacion2\\EjercicioF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T01:47:19.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EjercicioD.cs",
+              "DocumentMoniker": "C:\\Users\\agus_\\source\\repos\\GuiaEjercitacion2\\GuiaEjercitacion2\\EjercicioD.cs",
+              "RelativeDocumentMoniker": "GuiaEjercitacion2\\EjercicioD.cs",
+              "ToolTip": "C:\\Users\\agus_\\source\\repos\\GuiaEjercitacion2\\GuiaEjercitacion2\\EjercicioD.cs",
+              "RelativeToolTip": "GuiaEjercitacion2\\EjercicioD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T01:47:10.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EjercicioE.cs",
+              "DocumentMoniker": "C:\\Users\\agus_\\source\\repos\\GuiaEjercitacion2\\GuiaEjercitacion2\\EjercicioE.cs",
+              "RelativeDocumentMoniker": "GuiaEjercitacion2\\EjercicioE.cs",
+              "ToolTip": "C:\\Users\\agus_\\source\\repos\\GuiaEjercitacion2\\GuiaEjercitacion2\\EjercicioE.cs",
+              "RelativeToolTip": "GuiaEjercitacion2\\EjercicioE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T01:47:00.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EjercicioC.cs",
+              "DocumentMoniker": "C:\\Users\\agus_\\source\\repos\\GuiaEjercitacion2\\GuiaEjercitacion2\\EjercicioC.cs",
+              "RelativeDocumentMoniker": "GuiaEjercitacion2\\EjercicioC.cs",
+              "ToolTip": "C:\\Users\\agus_\\source\\repos\\GuiaEjercitacion2\\GuiaEjercitacion2\\EjercicioC.cs",
+              "RelativeToolTip": "GuiaEjercitacion2\\EjercicioC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T01:46:43.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EjercicioB.cs",
+              "DocumentMoniker": "C:\\Users\\agus_\\source\\repos\\GuiaEjercitacion2\\GuiaEjercitacion2\\EjercicioB.cs",
+              "RelativeDocumentMoniker": "GuiaEjercitacion2\\EjercicioB.cs",
+              "ToolTip": "C:\\Users\\agus_\\source\\repos\\GuiaEjercitacion2\\GuiaEjercitacion2\\EjercicioB.cs",
+              "RelativeToolTip": "GuiaEjercitacion2\\EjercicioB.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwE0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T01:46:33.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EjercicioA.cs",
+              "DocumentMoniker": "C:\\Users\\agus_\\source\\repos\\GuiaEjercitacion2\\GuiaEjercitacion2\\EjercicioA.cs",
+              "RelativeDocumentMoniker": "GuiaEjercitacion2\\EjercicioA.cs",
+              "ToolTip": "C:\\Users\\agus_\\source\\repos\\GuiaEjercitacion2\\GuiaEjercitacion2\\EjercicioA.cs",
+              "RelativeToolTip": "GuiaEjercitacion2\\EjercicioA.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwDYAAACwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T01:46:21.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agus_\\source\\repos\\GuiaEjercitacion2\\GuiaEjercitacion2\\Program.cs",
+              "RelativeDocumentMoniker": "GuiaEjercitacion2\\Program.cs",
+              "ToolTip": "C:\\Users\\agus_\\source\\repos\\GuiaEjercitacion2\\GuiaEjercitacion2\\Program.cs",
+              "RelativeToolTip": "GuiaEjercitacion2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T01:45:23.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

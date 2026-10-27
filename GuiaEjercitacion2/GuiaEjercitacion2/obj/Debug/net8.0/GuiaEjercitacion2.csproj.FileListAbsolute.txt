@@ -1,0 +1,14 @@
+C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.AssemblyInfoInputs.cache
+C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.AssemblyInfo.cs
+C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.csproj.CoreCompileInputs.cache
+C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.exe
+C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.deps.json
+C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.runtimeconfig.json
+C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.dll
+C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.pdb
+C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.dll
+C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\refint\GuiaEjercitacion2.dll
+C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.pdb
+C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.genruntimeconfig.cache
+C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\ref\GuiaEjercitacion2.dll
