@@ -12,3 +12,4 @@ C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0
 C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.pdb
 C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.genruntimeconfig.cache
 C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\ref\GuiaEjercitacion2.dll
+C:\Users\agus_\source\repos\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.sourcelink.json
